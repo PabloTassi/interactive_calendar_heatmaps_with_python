@@ -9,8 +9,8 @@ pip install plotly-calplot
 ```
 
 
-## Video Tutorial (Coming soon!)
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+## Video Tutorial
+[![YouTube Video](https://img.youtube.com/vi/U4gjFYvQafo/0.jpg)](https://youtu.be/U4gjFYvQafo)
 
 
 ## 🤝 Connect with Me
